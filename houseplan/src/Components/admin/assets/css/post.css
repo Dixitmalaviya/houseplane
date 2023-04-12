@@ -1,0 +1,18 @@
+/* Upload Post Image btn Admin 
+.post_upload_img_admin input[type="file"] {
+    display: none;
+}
+
+.post_upload_img_admin label {
+    display: block;
+    position: relative;
+    background-color: #025bee;
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    width: 300px;
+    padding: 18px 0;
+    border-radius: 5px;
+    margin: auto;
+    cursor: pointer;
+} */

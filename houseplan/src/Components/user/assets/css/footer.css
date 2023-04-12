@@ -1,0 +1,45 @@
+.page-footer-section {
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    background-color: #252525;
+    color: white !important;
+
+}
+
+.page-footer-section .bg-dark hr {
+    border-color: #4d4853;
+}
+
+
+.page-footer-section a,
+.page-footer-section p {
+    color: #B2B4BF;
+}
+
+.page-footer-section a:hover {
+    color: #526bf5;
+    text-decoration: none;
+}
+
+.page-footer-section .menu-link {
+    position: relative;
+    padding-left: 0;
+    list-style: none;
+}
+
+.page-footer-section .menu-link li {
+    display: block;
+    margin-top: 10px;
+}
+
+.page-footer-section .menu-link li a {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    color: #B2B4BF;
+}
+
+.page-footer-section .menu-link li a:hover {
+    color: orange;
+    text-decoration: none;
+}
